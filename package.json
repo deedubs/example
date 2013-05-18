@@ -14,5 +14,8 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "gitHead": "b9bc11f219fe89d3c70fa79ef9e5cda836ece2a9",
-  "dependencies": { }
+  "dependencies": {
+    "mongoose": "~3.6.11",
+    "debug":"latest"
+  }
 }
